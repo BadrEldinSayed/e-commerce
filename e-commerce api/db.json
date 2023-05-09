@@ -1,0 +1,149 @@
+{
+    "product": [
+    {
+        "id": 1,
+        "title": "Wholesale Fashion Handbags",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 125.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_01",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/o/r/orson_prd_5.jpg",
+        "image2":"https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/b/o/borson_prd_4_2.jpg",
+        "category": "shop-men",
+        "status": "best-seller",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "title": "Cyan Boheme",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 125.00,
+        "availability": "In stock",
+        "brand": "Luxottica",
+        "sku": "TRENDING_01",
+        "image1":"https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/1/0/10_1_3_1.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/1/0/10_1_2_2.jpg",
+        "category": "shop-women",
+        "status": "sale",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "title": "Suitcase Clipart",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 10.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_07",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/2/4/24_5.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/3/_/3_1_1.jpg",
+        "category": "shop-women",
+        "status": "best-seller",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "title": "Tactical Rush Moab",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 120.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_05",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/2/6/26_42.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/1/3/13_1_2.jpg",
+        "category": "shop-women",
+        "status": "sale",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "title": "Beebay Full Length Denim",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 49.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_03",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/9/_/9_1_1.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/9/_/9_2_1.jpg",
+        "category": "shop-women",
+        "status": "best-seller",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "title": "Vector Shoes",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 99.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_04",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/8/_/8_1_1.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/8/_/8_2_1.jpg",
+        "category": "hipster-girls",
+        "status": "sale",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "title": "Silver High Heel Shoes",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 54.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_08",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/2/3/23_26.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/2/5/25_41.jpg",
+        "category": "hipster-girls",
+        "status": "best-seller",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "title": "Tuk Peacock Shoes",
+        "description": "Go sporty this summer with this vintage navy and white striped v-neck t-shirt from the Nike. Perfect for pairing with denim and white kicks for a stylish sporty vibe.",
+        "price": 115.00,
+        "availability": "In stock",
+        "brand": "Escada",
+        "sku": "SALE_06",
+        "image1": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/6/_/6_1_1.jpg",
+        "image2": "https://claue.arrowtheme.com/media/catalog/product/cache/2c6622467c9ab2c04bc1ee512df331fe/6/_/6_2_1_3.jpg",
+        "category": "hipster-girls",
+        "status": "top-rate",
+        "quantity": 1
+    }
+], 
+
+    "gategory": [
+        {
+            "id": 1,
+            "name": "shop-women",
+            "image": "https://claue.arrowtheme.com/media/promobanners//w/o/women-collection.jpg"
+        },
+        {
+            "id": 2,
+            "name": "shop-men",
+            "image": "https://claue.arrowtheme.com/media/promobanners//s/h/shopmen.jpg"
+        },
+        {
+            "id": 3,
+            "name": "hipster-girls",
+            "image": "https://claue.arrowtheme.com/media/promobanners//s/h/shop-girl.jpg"
+        }
+],
+
+    "payment": [
+        {
+            "card_number": 0,
+            "card_code":0,
+            "first_name": "",
+            "last_name": "",
+            "country": "",
+            "city": "",
+            "zip_code": "",
+            "email": "",
+            "phone_number":0,
+            "total_price": 0
+        }
+]
+}
